@@ -1,3 +1,5 @@
+# Bank Management System
+
 This is a Bank Management System Database Project.
 
 Abstract: The main aim of Bank Management Mini DBMS project is to keep record of customer transactions in the bank.
